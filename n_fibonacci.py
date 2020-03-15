@@ -18,7 +18,7 @@ def n_fibonacci():
             to_print += [num]
             num = 0
     sequence = to_print[:num_m]
-    return(sequence)
+    return sequence
 
 
 print(n_fibonacci())
